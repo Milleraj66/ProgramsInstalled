@@ -1,0 +1,29 @@
+ssh
+QT Designer
+ISE
+Pebble Dev
+Cyberghost VPN
+
+# Here is a list of programs that I have Installed (add new to bottom)
+Oracle-Java8: http://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
+Android Studio: https: //itsfoss.com/install-android-studio-ubuntu-linux/
+Xilinx Vivado: https://allmyzynquits.wordpress.com/2015/08/18/installing-vivado-sdk-2015-2-under-ubuntu-14-04/ 
+Virtualbox: http://tecadmin.net/install-oracle-virtualbox-on-ubuntu/#
+Keepass: http://www.howtogeek.com/93798/install-keepass-password-safe-on-your-ubuntu-or-debian-based-linux-system/
+Dropbox: http://www.linuxtechi.com/install-dropbox-in-ubuntu-14-10/
+*KeeFox: chrome://keefox/content/install_mono.xul
+*MondoMindi: https://help.ubuntu.com/community/MondoMindi
+JDK8: https://source.android.com/source/initializing.html
+AOSP: https://source.android.com/source/initializing.html
+
+# Simple Apt-get
+Geany
+Chromium-browser
+build-essential
+git-core
+arduino
+GIMP
+
+# Installed but not working
+Matlab: https://help.ubuntu.com/community/MATLAB https://www.mathworks.com/matlabcentral/answers/235128-error-354-no-more-machine-transfers-available
+MPLab X IDE: Downloaded, but installer has dependency not found throught apt
